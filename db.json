@@ -2,23 +2,23 @@
     "location" :[
         {
           "role": "developer",
-          "location": "Building-I"
+          "building_no": "Building-I"
         },
         {
           "role": "accountant",
-          "location": "Building-II"
+          "building_no": "Building-II"
         },
         {
           "role": "front-office",
-          "location": "Building-III"
+          "building_no": "Building-III"
         },
         {
           "role": "back-office",
-          "location": "Building-IV"
+          "building_no": "Building-IV"
         },
         {
           "role": "logistics",
-          "location": "Building-V"
+          "building_no": "Building-V"
         }
     ]
 }
