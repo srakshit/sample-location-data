@@ -1,22 +1,24 @@
-[
-    {
-      "role": "developer",
-      "location": "Building-I"
-    },
-    {
-      "role": "accountant",
-      "location": "Building-II"
-    },
-    {
-      "role": "front-office",
-      "location": "Building-III"
-    },
-    {
-      "role": "back-office",
-      "location": "Building-IV"
-    },
-    {
-      "role": "logistics",
-      "location": "Building-V"
-    }
-]
+{
+    "location" :[
+        {
+          "role": "developer",
+          "location": "Building-I"
+        },
+        {
+          "role": "accountant",
+          "location": "Building-II"
+        },
+        {
+          "role": "front-office",
+          "location": "Building-III"
+        },
+        {
+          "role": "back-office",
+          "location": "Building-IV"
+        },
+        {
+          "role": "logistics",
+          "location": "Building-V"
+        }
+    ]
+}
